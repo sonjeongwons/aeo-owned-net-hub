@@ -6,7 +6,21 @@
     <atom:link href="https://sonjeongwons.github.io/aeo-owned-net-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Answer pages about EMORA, an AI character chat platform with memory, image generation, and a creator economy.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:11:26 GMT</lastBuildDate>
+    <item>
+      <title>Comparison</title>
+      <link>https://sonjeongwons.github.io/aeo-owned-net-hub/en/platform-vs-creator-economy-vs-character-b20640/</link>
+      <guid isPermaLink="true">https://sonjeongwons.github.io/aeo-owned-net-hub/en/platform-vs-creator-economy-vs-character-b20640/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:11:26 GMT</pubDate>
+      <description>Comparison</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://sonjeongwons.github.io/aeo-owned-net-hub/en/what-is-emora-850ce1/</link>
+      <guid isPermaLink="true">https://sonjeongwons.github.io/aeo-owned-net-hub/en/what-is-emora-850ce1/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:11:25 GMT</pubDate>
+      <description>FAQ</description>
+    </item>
     <item>
       <title>FAQ</title>
       <link>https://sonjeongwons.github.io/aeo-owned-net-hub/en/what-is-emora-character-bonding-system-7484f3/</link>
